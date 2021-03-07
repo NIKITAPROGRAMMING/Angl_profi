@@ -1,0 +1,22 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Переводчик"
+        },
+        "color": "positive"
+      },
+
+	  {
+        "action": {
+          "type": "text",
+          "label": "Правило Английского"
+        },
+        "color": "positive"
+      }
+     ]
+   ]
+}
